@@ -1,0 +1,16 @@
+{"time":"2025-01-26T15:14:47.455153-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/ali/PycharmProjects/Self-Study/Evaluating and Debugging Generative AI/wandb/run-20250126_151447-6qkqjc3s/logs/debug-core.log"}
+{"time":"2025-01-26T15:14:47.560781-08:00","level":"INFO","msg":"created new stream","id":"6qkqjc3s"}
+{"time":"2025-01-26T15:14:47.560812-08:00","level":"INFO","msg":"stream: started","id":"6qkqjc3s"}
+{"time":"2025-01-26T15:14:47.560821-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"6qkqjc3s"}
+{"time":"2025-01-26T15:14:47.560845-08:00","level":"INFO","msg":"handler: started","stream_id":"6qkqjc3s"}
+{"time":"2025-01-26T15:14:47.560869-08:00","level":"INFO","msg":"sender: started","stream_id":"6qkqjc3s"}
+{"time":"2025-01-26T15:14:47.751309-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-26T15:15:13.242831-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-26T15:15:13.24555-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-26T15:15:13.648799-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-26T15:15:13.801153-08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-01-26T15:15:14.818454-08:00","level":"INFO","msg":"stream: closing","id":"6qkqjc3s"}
+{"time":"2025-01-26T15:15:14.818578-08:00","level":"INFO","msg":"handler: closed","stream_id":"6qkqjc3s"}
+{"time":"2025-01-26T15:15:14.819226-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6qkqjc3s"}
+{"time":"2025-01-26T15:15:14.820492-08:00","level":"INFO","msg":"sender: closed","stream_id":"6qkqjc3s"}
+{"time":"2025-01-26T15:15:14.821095-08:00","level":"INFO","msg":"stream: closed","id":"6qkqjc3s"}

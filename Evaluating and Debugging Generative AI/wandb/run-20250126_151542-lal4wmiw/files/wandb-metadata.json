@@ -1,0 +1,42 @@
+{
+  "os":  "macOS-14.6.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.0",
+  "startedAt":  "2025-01-26T23:15:42.295810Z",
+  "program":  "Evaluating and Debugging Generative AI/01_intro_starter.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Aliiiqbp/Self-Study.git",
+    "commit":  "7ef6b613f15f03a9642680e99ff966fd12a1b046"
+  },
+  "email":  "ali.ghorbanpour.ce@gmail.com",
+  "root":  "/Users/ali/PycharmProjects/Self-Study/Evaluating and Debugging Generative AI",
+  "host":  "Alis-Laptop.local",
+  "executable":  "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "158126886912"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "158126886912"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M3",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  16,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "17179869184"
+  }
+}

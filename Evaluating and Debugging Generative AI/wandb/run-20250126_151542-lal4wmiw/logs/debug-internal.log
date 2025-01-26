@@ -1,0 +1,16 @@
+{"time":"2025-01-26T15:15:42.295786-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/ali/PycharmProjects/Self-Study/Evaluating and Debugging Generative AI/wandb/run-20250126_151542-lal4wmiw/logs/debug-core.log"}
+{"time":"2025-01-26T15:15:42.403089-08:00","level":"INFO","msg":"created new stream","id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:42.403119-08:00","level":"INFO","msg":"stream: started","id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:42.403124-08:00","level":"INFO","msg":"handler: started","stream_id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:42.403128-08:00","level":"INFO","msg":"sender: started","stream_id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:42.403168-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:42.585147-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-26T15:15:55.378952-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-26T15:15:55.379882-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-26T15:15:55.864577-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-26T15:15:56.009795-08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-01-26T15:15:57.015475-08:00","level":"INFO","msg":"stream: closing","id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:57.015502-08:00","level":"INFO","msg":"handler: closed","stream_id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:57.015517-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:57.015532-08:00","level":"INFO","msg":"sender: closed","stream_id":"lal4wmiw"}
+{"time":"2025-01-26T15:15:57.015733-08:00","level":"INFO","msg":"stream: closed","id":"lal4wmiw"}
