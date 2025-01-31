@@ -1,0 +1,7 @@
+Contents:
+
+build an AI agent that interact with tabular data
+in this way, we can use this agent to write query for us on a given DB
+make the querying much easier
+transform the querying task from a technical task to a prompt engineering
+LANGChain, as a database agent
