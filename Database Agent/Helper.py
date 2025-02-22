@@ -7,6 +7,8 @@ os.makedirs("data",exist_ok=True)
 file_url = "./data/all-states-history.csv"
 """
 
+
+
 df = pd.read_csv("./data/all-states-history.csv").fillna(value = 0)
 
 database_file_path = "./db/test.db"
